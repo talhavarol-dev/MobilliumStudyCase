@@ -19,15 +19,15 @@ I was going to do it using a storyboard, but I didn't have enough time, it was h
 
 ## Technologies
 + MVVM Architecture ✅ 
++ Pull to Refresh ✅
 + Programmatically ✅ 
 + CocoaPods for 3rd Party Libraries✅
 + Kingfisher ✅ 
 + Alamofire ✅
 + SnapKit ✅
-+ Scroll View ✅ 
-+ Collection View ✅
 + Table View ✅
-+ Pull to Refresh ✅
++ Collection View ✅
+
 
 ## Video
 
